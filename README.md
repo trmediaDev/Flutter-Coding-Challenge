@@ -51,7 +51,7 @@ They also provided some insight into the company's user base. Most of their user
 Your task is to build a Mobile Application for the user group mentioned above using the Flutter framework that meets the above requirements. 
 
 ## Before you start coding
-The time limit for completing this project is 4 hours. We don't expect you to submit a 100% completed solution. We value readable and maintainable code.
+The time limit for completing this project is 4 hours. We don't expect you to submit a 100% completed solution. We value maintainable code, following software development best practices, and your ability make decisions based on data presented to you.
 
 ## Your submission
 
